@@ -17,7 +17,7 @@ Refactoring code was to improve accessibility features such as semantic HTML ele
 
 ## Mockup Image
 
-![Mockup-image](./assets/images/homework-Horiseon.png)
+![Screenshot](./assets/images/homework-Horiseon.png)
 
 ## Website Link
 
