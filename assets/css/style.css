@@ -33,7 +33,7 @@ body {
 }
 
 .header div ul {
-    list-style-type: none;
+    list-style-type: no;
 }
 
 .header div ul li {
