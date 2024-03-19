@@ -1,4 +1,4 @@
-# Horiseon Marketing Agency
+## Horiseon Marketing Agency
 
 This project is a website for Horiseon, a marketing company. It will showcase Horiseon's services and improve accessibility and search engine optimization.
 
@@ -22,3 +22,4 @@ Refactoring code was to improve accessibility features such as semantic HTML ele
 ## Website Link
 
 [Horiseon Marketing Agency]
+https://seokhh10.github.io/horiseon-hw/
